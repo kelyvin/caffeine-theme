@@ -60,7 +60,7 @@
     "fitvids": "^2.0.0",
     "fontfaceobserver": "^2.0.13",
     "ghosthunter": "git://github.com/jamalneufeld/ghostHunter.git",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.24.0",
     "store": "^2.0.12",
     "toastr": "^2.1.4"
   }
